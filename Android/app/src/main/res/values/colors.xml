@@ -1,0 +1,6 @@
+<resources>
+    <color name="seed">#176B87</color>
+    <color name="connected">#1B8A3D</color>
+    <color name="disconnected">#B3261E</color>
+</resources>
+
